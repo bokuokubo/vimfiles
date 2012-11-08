@@ -1,0 +1,3 @@
+[submodule "bundle/vimdoc-ja"]
+	path = bundle/vimdoc-ja
+	url = https://github.com/vim-jp/vimdoc-ja.git
