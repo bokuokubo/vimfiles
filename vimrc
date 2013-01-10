@@ -121,7 +121,8 @@ au FileType c,cpp exec 'match Todo /\%>' . &textwidth . 'v.\+/'
 endif
 
 " Theme settings
-set background=light
+set background=dark
+colorscheme solarized
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "" Language settings (programming)
